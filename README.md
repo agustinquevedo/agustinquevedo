@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="./assets/hithere.gif">
+<img src="https://raw.githubusercontent.com/agustinquevedo/agustinquevedo/master/assets/hithere.gif">
 
 ### I'm Agustín, Front-end Developer based in Berlin.
 
