@@ -8,7 +8,7 @@
 
 - 👨🏻‍💻 I’m currently working on my website **agustinquevedo.com**
 - 🌱 I’m currently learning and improving my skilss in **MERNSTACK**.
--  You can find me in: **[LinkedIn](https://www.linkedin.com/in/agustinquevedo)** - **[instagram](https://www.instagram.com/agusquevedo16)** 
+-  You can find me in: **[LinkedIn](https://www.linkedin.com/in/agustinquevedo)** - **[Instagram](https://www.instagram.com/agusquevedo16)** 
 
 - 💪🏻 My principal skills: 
 
