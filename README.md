@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![assets/hithere.gif](assets/hithere.gif)
+![assets/hithere.gif](/assets/hithere.gif)
 
 I'm Agustín, Front-end Developer based in Berlin.
 
@@ -9,10 +9,10 @@ I'm Agustín, Front-end Developer based in Berlin.
 
 Here are some ideas to get you started:
 -->
-- 👨🏻‍💻 I’m currently working on my websit www.agustinquevedo.com
+- 👨🏻‍💻 I’m currently working on my websit agustinquevedo.com
 - 🌱 I’m currently learning MERNSTACK.
 - 📫 How to reach me: 
 
 Here you can find some projects, templates and code snippets created by me.
 
-<p><img src=https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg alt=vuejs width="40" height="40"/> <img src=https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg alt=react width="40" height="40"/> <img src=https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg alt=css3 width="40" height="40"/> <img src=https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg alt=html5 width="40" height="40"/> <img src=https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg alt=javascript width="40" height="40"/> <img src=https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg alt=mongodb width="40" height="40"/> <img src=https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg alt=postgresql width="40" height="40"/> <img src=https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg alt=sass width="40" height="40"/> <img src=https://devicons.github.io/devicon/devicon.git/icons/python/css3/css3-original.svg alt=python width="40" height="40"/></p>
+<p><img src=https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg alt=angular width="40" height="40"/> <img src=https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg alt=react width="40" height="40"/> <img src=https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg alt=javascript width="40" height="40"/> <img src=https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg alt=html5 width="40" height="40"/> <img src=https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg alt=css3 width="40" height="40"/>  <img src=https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg alt=sass width="40" height="40"/></p>
