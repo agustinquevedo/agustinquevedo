@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! 👋
 
 <img src="https://raw.githubusercontent.com/agustinquevedo/agustinquevedo/master/assets/hithere.gif">
 
