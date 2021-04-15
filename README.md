@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/agustinquevedo/agustinquevedo/master/assets/hithere.gif">
 
-### I'm Agustín, a Front-end Developer based in Berlín.
+### I'm Agustín, a Front-end Developer.
 
 <p> <img src=https://komarev.com/ghpvc/?username=agustinquevedo alt=rahuldkjain/> </p>
 
